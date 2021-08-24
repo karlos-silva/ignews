@@ -14,6 +14,12 @@ export default class MyDocument extends Document {
           <NextScript />
         </body>
       </Html>
-    )
+
+)
   }
 }
+
+
+var firstName = 'Karlos'
+
+var last_name = 'Silva'
